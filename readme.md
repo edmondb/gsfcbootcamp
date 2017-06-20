@@ -6,6 +6,7 @@
   * Python 2/3 code
   * OOP
   * Package Development and Deployment
+  * Unit Testing
 
 * noon-5: Specific Package Techniques
   * Pandas
