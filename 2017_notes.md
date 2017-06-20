@@ -1,6 +1,6 @@
 # Bootcamp Notes:
  
-__ Preparation__
+__Preparation__
   - Main Organizer should have a deputy….no single points of failure…
   - Confirm room reservations (B34 mixup this year)
   - Make sure all attendees have badges/access to center
