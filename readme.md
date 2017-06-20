@@ -2,7 +2,7 @@
 
 #### Day 1 - Intermediate Python:
 
-* 8-noon: Core Python Techniques
+* 9-noon: Core Python Techniques
   * Python 2/3 code
   * OOP
   * Package Development and Deployment
@@ -16,7 +16,7 @@
 
 #### Day 2 - Advanced Python:
 
-* 8-noon: Applications
+* 9-noon: Applications
   * Earth Science
   * Astrophysics
   * Engineering
