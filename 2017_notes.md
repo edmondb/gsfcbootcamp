@@ -1,6 +1,7 @@
 # Bootcamp Notes:
 
-These are notes from both sessions of the Software Carpentry-drive Bootcamp. Please edit and add suggestions so that future bootcamps will be made better and for posterity.
+These are notes from both sessions of the bootcamp run by Software Carpentry. 
+Please edit and add suggestions so that future bootcamps will be made better and for posterity.
  
 __Preparation__
   - Main Organizer should have a deputy….no single points of failure…
