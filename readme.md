@@ -13,6 +13,7 @@
   * xarray, dask
   * Basemap, cartopy, bokeh
   * scipy
+  * multiprocessing, multithreading, asyncio
 
 #### Day 2 - Advanced Python:
 
@@ -24,3 +25,4 @@
 * noon-5: Extensions
   * Web-Based
   * Mobile Apps
+  * Machine Learning
