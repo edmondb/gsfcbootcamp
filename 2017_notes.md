@@ -6,7 +6,7 @@ Please edit and add suggestions so that future bootcamps will be made better and
 __Preparation__
   - Main Organizer should have a deputy….no single points of failure…
   - Confirm room reservations (B34 mixup this year)
-  - Make sure all attendees have badges/access to center
+  - Emphasize that all attendees must have badges/access to center in order to attend the bootcamp. Don't sign up if no access. (Do organizers need to check if attendees have access? Probably impractical.) 
   - Email for coordination of schedule and required software
   - Group chat for support is nice (they used etherpad)
     - Group chat for organizers/helpers
@@ -19,7 +19,7 @@ __Preparation__
   - GitHub for all files, but they need knowledge of how to obtain files
   - Extension cords from B34 sys admins
   - Schedule of helpers/volunteers
-  - Setup for day 1 (possibly on Friday afternoon if there is no events)
+  - Setup for day 1 (possibly on Friday afternoon if there is no prior event)
   - Get change for snack money
   - Webpage with all info instead of wiki?
   - Need Room Leads to be in room all day
@@ -33,10 +33,11 @@ __Preparation__
   - Website contact (includes registration) -
   - Dateline announcement contact -
   - Allow mentors of interns to switch students that are under them only. No swapping for interns of other mentors.
-  - Email to attendees prior to bootcamp to confirm attendance and give installation instructions and pre-bootcamp survey.
+  - Email attendees prior to bootcamp to confirm attendance and give installation instructions and pre-bootcamp survey.
   - Software Carpentry Notes:
-    - Good, but need to make sure we get experienced speakers.
+    - Good, but need to make sure we get experienced instructors.
     - Should be able to teach at a level higher than GSFC volunteers
+    - Ideally, instructors will have experience w NASA data sets. (2017 list of instructors shows many who fit this request in the US/DC area)
   - Sample/applicable data to use for examples/breakout sessions
   - Presentation and projectors bright and high contrast
 
@@ -56,7 +57,7 @@ __Day 1__
 
 __Day 2__
   - Clean up
-  - Speaker volume and how speaker speaks into microphone so that there is no static and loudness that is annoying
+  - Speaker volume and how speaker speaks into microphone so that there is no static / loudness that is annoying
   - Screen background should be white and text be black
   - Wireless microphones would be best so we can adjust for volume without the speaker changing distance from mouth to microphone
   - Post-bootcamp survey
