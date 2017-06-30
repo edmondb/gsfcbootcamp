@@ -21,6 +21,7 @@
   * Earth Science
     * GIS
     * Basemap/data on a map
+    * Working with HDF/netCDF data
     * Case Study to highlight research
   * Astrophysics
   * Engineering
