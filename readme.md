@@ -30,3 +30,14 @@
 * noon-5: Extensions
   * Web-Based Applications
   * Mobile Development (creating apps)
+
+---
+
+Organizing (where we stand):
+
+- Rec Center reserved for July 24 and 26
+- Need website and registration setup
+- Python 2/3?
+- Dateline Announcement needs to be drafted
+- GitHub Repo setup and notes from 1st bootcamp started for prosperity
+- Need to get schedule/topics vetted
