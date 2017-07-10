@@ -7,7 +7,7 @@
 * 10:30 - 12:00 am: Data Manipulation / Intro to Object-Oriented Programming (Jeremy?)
 * 12:00 - 1:00 pm: lunch
 * 1:00 - 2:20 pm: Data Analysis / Programming Ontology & Grammar (Jane?)
-* 2:30 pm: break
+* 2:30 - 2:40 pm: break
 * 2:40 - 4:00 pm: Data Visualization / Package Development (Peter?)
 
 #### Day 2 - Advanced Python:
