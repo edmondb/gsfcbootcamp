@@ -2,42 +2,29 @@
 
 #### Day 1 - Intermediate Python:
 
-* 9-noon: Core Python Techniques
-  * Creating Python 2/3 Compatible Code (0.5 hrs)
-  * Object-Oriented Programming in Python (1+ hrs?)
-  * Package Development and Deployment (0.5 hrs)
-  * Unit Testing (1 hr)
-
-* noon-5: Specific Package Techniques
-  * Pandas (1 hr?)
-  * Scientific Package Showcase: xarray, dask, bokeh (1 hr)
-  * SciPy (1 hr)
-  * Visualizations (1 hr)
-  * Parallel Programming (1 hr) - multiprocessing, multithreading, asyncio
+* 9:00 - 10:20 am: Data Retrieval / Functions (Jules?)
+* 10:20 - 10:30 am: break
+* 10:30 - 12:00 am: Data Manipulation / Intro to Object-Oriented Programming (Jeremy?)
+* 12:00 - 1:00 pm: lunch
+* 1:00 - 2:20 pm: Data Analysis / Programming Ontology & Grammar (Jane?)
+* 2:30 pm: break
+* 2:40 - 4:00 pm: Data Visualization / Package Development (Peter?)
 
 #### Day 2 - Advanced Python:
 
-* 9-noon: Applications
-  * Earth Science
-    * GIS
-    * Basemap/data on a map
-    * Working with HDF/netCDF data
-    * Case Study to highlight research
-  * Astrophysics
-  * Engineering
-    * Machine Learning?
-
-* noon-5: Extensions
-  * Web-Based Applications
-  * Mobile Development (creating apps)
+* 9:00 - 10:20 am: Parallelization / Machine Learning (Brandon?)
+* 10:20 - 10:30 am: break
+* 10:30 - 12:00 am: Web / Version Control (Carlos?)
+* 12:00 - 1:00 pm: lunch
+* 1:00 - 2:20 pm: New Packages / Writing Python 2/3 Code (Brent)
 
 ---
 
-Organizing (where we stand):
+Organizers TODO (current):
 
-- Rec Center reserved for July 24 and 26
-- Need website and registration setup
-- Python 2/3?
+- Rec Center reserved for July 24 and 26 (__Done__)
+- Need website and registration setup (Placeholder website up and registration started)
+- Python 2/3 - mixed (lecture given to start transitioning everyone to 3: [link](http://www.pythonclock.org))
 - Dateline Announcement needs to be drafted
-- GitHub Repo setup and notes from 1st bootcamp started for prosperity
-- Need to get schedule/topics vetted
+- GitHub Repo setup and notes from 1st bootcamp started for prosperity (__Done__)
+- Need to get schedule/topics vetted (initial schedule done)
