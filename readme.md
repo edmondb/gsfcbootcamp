@@ -20,6 +20,16 @@
 
 ---
 
+* Current Bootcamp:
+  * GitHub Repository: [http://github.com/edmondb/gsfcbootcamp](http://github.com/edmondb/gsfcbootcamp)
+  * Website: [http://asd.gsfc.nasa.gov/conferences/pythonbootcamp/2017/](http://asd.gsfc.nasa.gov/conferences/pythonbootcamp/2017/)
+* Past Bootcamps:
+  * 2016: [Link](http://github.com/JulesKouatchou/PBC2016)
+  * 2015: [Link](http://github.com/kialio/gsfcpyboot)
+  * 2014: [Link](http://asd.gsfc.nasa.gov/conferences/pythonbootcamp/2014/agenda/)
+
+---
+
 Organizers TODO (current):
 
 - Rec Center reserved for July 24 and 26 (__Done__)
