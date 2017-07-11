@@ -2,13 +2,13 @@
 
 #### Day 1 - Intermediate Python:
 
-* 9:00 - 10:20 am: Data Retrieval / Functions (Jules?)
+* 9:00 - 10:20 am: Data Retrieval / Functions (__Jules__)
 * 10:20 - 10:30 am: break
 * 10:30 - 12:00 am: Data Manipulation / Intro to Object-Oriented Programming (Peter?)
 * 12:00 - 1:00 pm: lunch
 * 1:00 - 2:20 pm: Data Analysis / Programming Ontology & Grammar (Jane?)
 * 2:30 - 2:40 pm: break
-* 2:40 - 4:00 pm: Data Visualization / Package Development (Carlos?)
+* 2:40 - 4:00 pm: Data Visualization / Package Development (__Carlos__)
 
 #### Day 2 - Advanced Python:
 
@@ -16,7 +16,7 @@
 * 10:20 - 10:30 am: break
 * 10:30 - 12:00 am: Web / Version Control (Jeremy?)
 * 12:00 - 1:00 pm: lunch
-* 1:00 - 2:20 pm: New Packages / Writing Python 2/3 Code (Brent)
+* 1:00 - 2:20 pm: New Packages / Writing Python 2/3 Code (__Brent__)
 
 ---
 
