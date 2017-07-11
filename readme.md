@@ -12,9 +12,9 @@
 
 #### Day 2 - Advanced Python:
 
-* 9:00 - 10:20 am: Parallelization / Machine Learning (Brandon?)
+* 9:00 - 10:20 am: Parallelization / Machine Learning (__Brandon__)
 * 10:20 - 10:30 am: break
-* 10:30 - 12:00 am: Web / Version Control (Jeremy?)
+* 10:30 - 12:00 am: Web / Version Control (__Jeremy__)
 * 12:00 - 1:00 pm: lunch
 * 1:00 - 2:20 pm: New Packages / Writing Python 2/3 Code (__Brent__)
 
