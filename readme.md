@@ -4,7 +4,7 @@
 
 * 9:00 - 10:20 am: Data Retrieval / Functions (__Jules__)
 * 10:20 - 10:30 am: break
-* 10:30 - 12:00 am: Data Manipulation / Intro to Object-Oriented Programming (Peter?)
+* 10:30 - 12:00 am: Data Manipulation / Intro to Object-Oriented Programming (?)
 * 12:00 - 1:00 pm: lunch
 * 1:00 - 2:20 pm: Data Analysis (__Jane__) _Programming Ontology & Grammar (Terri?)_
 * 2:30 - 2:40 pm: break
