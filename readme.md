@@ -4,7 +4,7 @@
 
 * 9:00 - 10:20 am: Data Retrieval / Functions (__Jules__)
 * 10:20 - 10:30 am: break
-* 10:30 - 12:00 am: Data Manipulation / Intro to Object-Oriented Programming (?)
+* 10:30 - 12:00 am: Data Manipulation / Intro to Object-Oriented Programming (__Jeremy__)
 * 12:00 - 1:00 pm: lunch
 * 1:00 - 2:20 pm: Data Analysis (__Jane__)
 * 2:30 - 2:40 pm: break
@@ -14,7 +14,7 @@
 
 * 9:00 - 10:20 am: Parallelization / Machine Learning (__Brandon__)
 * 10:20 - 10:30 am: break
-* 10:30 - 12:00 am: Web / Version Control (__Jeremy__)
+* 10:30 - 12:00 am: Web / Version Control (__Brad__)
 * 12:00 - 1:00 pm: lunch
 * 1:00 - 2:20 pm: New Packages / Writing Python 2/3 Code (__Brent__)
 
