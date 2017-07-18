@@ -35,6 +35,6 @@ Organizers TODO (current):
 - Rec Center reserved for July 24 and 26 (__Done__)
 - Need website and registration setup (Placeholder website up and registration started)
 - Python 2/3 - mixed (lecture given to start transitioning everyone to 3: [link](http://www.pythonclock.org))
-- Dateline Announcement needs to be drafted
+- Dateline Announcement (__Done__)
 - GitHub Repo setup and notes from 1st bootcamp started for prosperity (__Done__)
-- Need to get schedule/topics vetted (initial schedule done)
+- Need to get schedule/topics vetted (__Done__)
